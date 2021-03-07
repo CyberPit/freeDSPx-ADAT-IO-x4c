@@ -1,6 +1,6 @@
 # freeDSPx-ADAT-IO-x4c
 
-freeDSPx-ADAT-IO-x4c is another design variation bracnch of FreeDSPx-ADAT-IO-x4.
+freeDSPx-ADAT-IO-x4c is another design variation branch of FreeDSPx-ADAT-IO-x4.
 Based on CoolAudio ASSP solution.
 BOARD STATUS: WORK IN PROGRESS - DO NOT BUILT!
 
