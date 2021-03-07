@@ -1,9 +1,11 @@
-# freeDSPx-ADAT-IO-x4
+# freeDSPx-ADAT-IO-x4c
 
+freeDSPx-ADAT-IO-x4c is another design variation bracnch of FreeDSPx-ADAT-IO-x4.
+Based on CoolAudio ASSP solution.
 BOARD STATUS: WORK IN PROGRESS - DO NOT BUILT!
 
 The freeDSPx ADAT IO x4 is a digital IO expansion board for the freeDSP family. 
-It provides 4 Lightpipe inputs and 4 Lightpipe outputs via Toslinks.
+It provides 48kHz 4 Lightpipe inputs and 4 Lightpipe outputs via a single Toslink fiber.
 
 ## License
 
