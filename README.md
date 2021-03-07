@@ -1,7 +1,7 @@
 # freeDSPx-ADAT-IO-x4c
 
 freeDSPx-ADAT-IO-x4c is another design variation branch of FreeDSPx-ADAT-IO-x4.
-Based on CoolAudio ASSP solution.
+Based on CoolAudio ASSP solution.<BR>
 BOARD STATUS: WORK IN PROGRESS - DO NOT BUILT!
 
 The freeDSPx ADAT IO x4 is a digital IO expansion board for the freeDSP family. 
